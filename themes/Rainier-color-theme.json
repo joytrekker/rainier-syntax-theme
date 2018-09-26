@@ -797,7 +797,10 @@
 		},
 		{
 			"name": "[MARKDOWN] - link underline",
-			"scope": "markup.underline.link.markdown",
+			"scope": [
+				"markup.underline.link.markdown",
+				"markup.underline.link.image.markdown"
+			],
 			"settings": {
 				"foreground": "#509ddb"
 			}
