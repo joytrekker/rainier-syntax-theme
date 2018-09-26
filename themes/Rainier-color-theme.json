@@ -255,12 +255,12 @@
 
 		"textCodeBlock.background": "#171d23",
 
-		"textLink.activeForeground": "#718ca1",
-		"textLink.foreground": "#718ca1",
+		"textLink.activeForeground": "#c9c994",
+		"textLink.foreground": "#509ddb",
 
 		"textPreformat.foreground": "#718ca1",
 
-		"textSeparator.foreground": "#718ca1",
+		"textSeparator.foreground": "#509ddb",
 
 		"titleBar.activeBackground": "#0f1316",
 		"titleBar.activeForeground": "#ffffff",
