@@ -1,0 +1,44 @@
+{
+    "name": "rainier",
+    "displayName": "Rainier",
+    "description": "A dark and refreshing and syntax theme for Visual Studio Code.",
+    "version": "1.0.0",
+    "publisher": "joytrekker",
+    "engines": {
+        "vscode": "^1.26.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Rainier",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Rainier-color-theme.json"
+            }
+        ]
+    },
+    "license": "MIT",
+	"bugs": {
+		"url": "https://github.com/joytrekker/rainier-syntax-theme/issues",
+		"email": "dev@joytrekker.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/joytrekker/rainier-syntax-theme.git"
+	},
+	"homepage": "https://github.com/joytrekker/rainier-syntax-theme/blob/master/README.md",
+	"icon": "icon.png",
+	"galleryBanner": {
+		"color": "#202931",
+		"theme": "dark"
+	},
+	"keywords": [
+		"rainier",
+		"theme",
+		"dark",
+		"syntax",
+		"joytrekker"
+	]
+}
