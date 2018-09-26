@@ -15,6 +15,6 @@ If you would like to make your own tweaks to Rainier take a look at the [Visual 
 
 ## License
 
-The MIT License (MIT)
+[The MIT License (MIT)](https://raw.githubusercontent.com/joytrekker/rainier-syntax-theme/master/LICENSE.txt)
 
 **Enjoy!**
