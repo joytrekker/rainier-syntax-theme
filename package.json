@@ -16,6 +16,11 @@
                 "label": "Rainier",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Rainier-color-theme.json"
+            },
+            {
+                "label": "Rainier - Retro",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Rainier-Retro-color-theme.json"
             }
         ]
     },
