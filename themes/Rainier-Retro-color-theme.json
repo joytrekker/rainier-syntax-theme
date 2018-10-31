@@ -1,5 +1,5 @@
 {
-	"name": "Rainier",
+	"name": "Rainier - Retro",
 	"type": "dark",
 	"colors": {
 		"activityBar.background": "#18121C",
@@ -17,11 +17,11 @@
 		"breadcrumb.focusForeground": "#509ddb",
 		"breadcrumb.foreground": "#7B6296",
 
-		"breadcrumbPicker.background": "#171d23",
+		"breadcrumbPicker.background": "#18121C",
 
-		"button.background": "#627d96",
+		"button.background": "#7B6296",
 		"button.foreground": "#ffffff",
-		"button.hoverBackground": "#509ddb",
+		"button.hoverBackground": "#9d79d8",
 
 		"contrastBorder": "#ffffff00",
 
@@ -78,8 +78,8 @@
 		"editorGutter.deletedBackground": "#dd518c",
 		"editorGutter.modifiedBackground": "#509ddb",
 
-		"editorHoverWidget.background": "#15232d",
-		"editorHoverWidget.border": "#333f4a",
+		"editorHoverWidget.background": "#1d1720",
+		"editorHoverWidget.border": "#332A3A",
 
 		"editorIndentGuide.background": "#3c2e49",
 
@@ -110,8 +110,8 @@
 
 		"editorWhitespace.foreground": "#483858",
 
-		"editorWidget.background": "#15232d",
-		"editorWidget.border": "#333f4a",
+		"editorWidget.background": "#1d1720",
+		"editorWidget.border": "#332A3A",
 
 		"errorForeground": "#dd518c",
 
@@ -119,13 +119,13 @@
 		"extensionButton.prominentForeground": "#ffffff",
 		"extensionButton.prominentHoverBackground": "#008b94",
 
-		"focusBorder": "#333f4a",
+		"focusBorder": "#332A3A",
 
 		"foreground": "#B3C8DC",
 
 		"gitDecoration.ignoredResourceForeground": "#B3C8DC80",
 
-		"input.background": "#1d1720",
+		"input.background": "#251E2A",
 		"input.border": "#1d1720",
 		"input.foreground": "#9d79d8",
 		"input.placeholderForeground": "#B3C8DC",
