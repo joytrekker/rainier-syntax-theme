@@ -5,7 +5,7 @@
 		"activityBar.background": "#18121C",
 		"activityBar.border": "#18121C",
 		"activityBar.dropBackground": "#9d79d8",
-		"activityBar.foreground": "#b9d3e9",
+		"activityBar.foreground": "#a982e7",
 
 		"activityBarBadge.background": "#dd518c",
 		"activityBarBadge.foreground": "#f2f2f2",
@@ -232,7 +232,7 @@
 		"terminal.ansiMagenta": "#b9346c",
 		"terminal.ansiRed": "#b9346c",
 		"terminal.ansiWhite": "#b9d3e9",
-		"terminal.ansiYellow": "#b8b88f",
+		"terminal.ansiYellow": "#c9c994",
 		"terminal.background": "#251E2A",
 		"terminal.border": "#332A3A",
 		"terminal.foreground": "#b9d3e9",
@@ -653,7 +653,7 @@
 				"source.json punctuation.definition.string"
 			],
 			"settings": {
-				"foreground": "#C4C497"
+				"foreground": "#c9c994"
 			}
 		},
 		{
