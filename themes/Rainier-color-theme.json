@@ -188,7 +188,7 @@
 
 		"progressBar.background": "#509ddb",
 
-		"scrollbar.shadow": "#00000000",
+		"scrollbar.shadow": "#000000bd",
 
 		"scrollbarSlider.activeBackground": "#333f4a",
 		"scrollbarSlider.background": "#41505e80",
@@ -206,8 +206,8 @@
 		"sideBarTitle.foreground": "#C4C497",
 
 		"statusBar.background": "#0f1316",
-		"statusBar.debuggingBackground": "#0f1316",
-		"statusBar.debuggingForeground": "#333f4a",
+		"statusBar.debuggingBackground": "#005a61",
+		"statusBar.debuggingForeground": "#ffffff",
 		"statusBar.foreground": "#B3C8DC",
 		"statusBar.noFolderBackground": "#0f1316",
 		"statusBar.noFolderForeground": "#B3C8DC",
