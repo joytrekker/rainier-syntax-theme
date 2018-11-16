@@ -1,30 +1,35 @@
 {
-    "name": "rainier",
-    "displayName": "Rainier",
-    "description": "A dark and refreshing and syntax theme for Visual Studio Code.",
-    "version": "1.0.0",
-    "publisher": "joytrekker",
-    "engines": {
-        "vscode": "^1.26.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Rainier",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Rainier-color-theme.json"
-            },
-            {
-                "label": "Rainier - Retro",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Rainier-Retro-color-theme.json"
-            }
-        ]
-    },
-    "license": "MIT",
+	"name": "rainier",
+	"displayName": "Rainier",
+	"description": "Dark and refreshing syntax themes for Visual Studio Code.",
+	"version": "1.0.0",
+	"publisher": "joytrekker",
+	"engines": {
+		"vscode": "^1.26.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Rainier",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Rainier-color-theme.json"
+			},
+			{
+				"label": "Rainier - Retro",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Rainier-Retro-color-theme.json"
+			},
+			{
+				"label": "Rainier - Shadow",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Rainier-Shadow-color-theme.json"
+			}
+		]
+	},
+	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/joytrekker/rainier-syntax-theme/issues",
 		"email": "dev@joytrekker.com"
@@ -41,9 +46,14 @@
 	},
 	"keywords": [
 		"rainier",
-		"theme",
+		"themes",
 		"dark",
 		"syntax",
-		"joytrekker"
-	]
+		"retro"
+	],
+	"__metadata": {
+		"id": "7d49a666-42a0-491f-a126-1875ebe13067",
+		"publisherDisplayName": "joytrekker",
+		"publisherId": "f85e1d5d-e4e2-4428-9363-4084e04f8439"
+	}
 }
