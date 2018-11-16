@@ -85,7 +85,7 @@
 		"editorMarkerNavigationError.background": "#dd518c",
 		"editorMarkerNavigationWarning.background": "#d98e48",
 
-		"editorOverviewRuler.border": "#635679",
+		"editorOverviewRuler.border": "#000000",
 		"editorOverviewRuler.addedForeground" : "#37c2b6",
 		"editorOverviewRuler.commonContentForeground": "#ebbf8355",
 		"editorOverviewRuler.currentContentForeground": "#ee3a4355",
@@ -183,9 +183,9 @@
 
 		"scrollbar.shadow": "#00000091",
 
-		"scrollbarSlider.activeBackground": "#4e4058",
+		"scrollbarSlider.activeBackground": "#4e405880",
 		"scrollbarSlider.background": "#4e405880",
-		"scrollbarSlider.hoverBackground": "#4e4058cc",
+		"scrollbarSlider.hoverBackground": "#64527080",
 
 		"selection.background": "#635679cc",
 
