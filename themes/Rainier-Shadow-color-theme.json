@@ -54,8 +54,8 @@
 		"editor.wordHighlightBackground": "#ffffff15",
 		"editor.wordHighlightStrongBackground": "#41505e",
 
-		"editorBracketMatch.background": "#12413d",
-		"editorBracketMatch.border": "#2da399",
+		"editorBracketMatch.background": "#3572ac",
+		"editorBracketMatch.border": "#509ddb",
 
 		"editorCodeLens.foreground": "#B3C8DC",
 
