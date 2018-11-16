@@ -36,9 +36,9 @@
 		"diffEditor.insertedTextBackground": "#37c2b631",
 		"diffEditor.removedTextBackground": "#dd518b2a",
 
-		"dropdown.background": "#28313a",
-		"dropdown.border": "#28313a",
-		"dropdown.foreground": "#ffffff",
+		"dropdown.background": "#333333a6",
+		"dropdown.border": "#333333a6",
+		"dropdown.foreground": "#b9d3e9",
 
 		"editor.background": "#222222",
 		"editor.findMatchBackground" : "#222222",
@@ -120,7 +120,7 @@
 		"gitDecoration.modifiedResourceForeground" : "#509ddb",
 		"gitDecoration.untrackedResourceForeground" : "#37c2b6",
 
-		"input.background": "#333333",
+		"input.background": "#292929",
 		"input.border": "#6c697a",
 		"input.foreground": "#509ddb",
 		"input.placeholderForeground": "#6c697a",

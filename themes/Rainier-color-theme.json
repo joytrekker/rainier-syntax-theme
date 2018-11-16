@@ -38,7 +38,7 @@
 
 		"dropdown.background": "#28313a",
 		"dropdown.border": "#28313a",
-		"dropdown.foreground": "#ffffff",
+		"dropdown.foreground": "#b9d3e9",
 
 		"editor.background": "#202931",
 		"editor.findMatchBackground" : "#202931",
@@ -121,12 +121,12 @@
 		"gitDecoration.modifiedResourceForeground" : "#509ddb",
 		"gitDecoration.untrackedResourceForeground" : "#37c2b6",
 
-		"input.background": "#333f4a",
-		"input.border": "#B3C8DC",
+		"input.background": "#2c363f",
+		"input.border": "#627d96",
 		"input.foreground": "#509ddb",
-		"input.placeholderForeground": "#B3C8DC",
+		"input.placeholderForeground": "#627d96",
 
-		"inputOption.activeBorder": "#333f4a",
+		"inputOption.activeBorder": "#627d96",
 
 		"inputValidation.errorBackground": "#dd518c",
 		"inputValidation.errorBorder": "#dd518c",
