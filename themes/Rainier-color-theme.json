@@ -133,10 +133,13 @@
 
 		"inputValidation.errorBackground": "#dd518c",
 		"inputValidation.errorBorder": "#dd518c",
+		"inputValidation.errorForeground" : "#0f1316",
 		"inputValidation.infoBackground": "#5ec4ff",
 		"inputValidation.infoBorder": "#539afc",
+		"inputValidation.infoForeground" : "#0f1316",
 		"inputValidation.warningBackground": "#d6af78",
 		"inputValidation.warningBorder": "#d98e48",
+		"inputValidation.warningForeground" : "#0f1316",
 
 		"list.activeSelectionBackground": "#333f4a",
 		"list.activeSelectionForeground": "#ffffff",
@@ -254,7 +257,7 @@
 		"terminalCursor.foreground": "#5ec4ff",
 
 		"textBlockQuote.background": "#171d23",
-		"textBlockQuote.border": "#171d23",
+		"textBlockQuote.border": "#3572ac",
 
 		"textCodeBlock.background": "#171d23",
 
@@ -271,7 +274,7 @@
 		"titleBar.inactiveBackground": "#1d252c",
 		"titleBar.inactiveForeground": "#ffffff33",
 
-		"walkThrough.embeddedEditorBackground": "#1d252c",
+		"walkThrough.embeddedEditorBackground": "#171d23",
 
 		"welcomePage.buttonBackground": "#0f1316",
 		"welcomePage.buttonHoverBackground": "#171d23",

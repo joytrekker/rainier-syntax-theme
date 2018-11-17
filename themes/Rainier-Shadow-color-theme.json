@@ -45,7 +45,7 @@
 		"editor.findMatchBorder" : "#b9d3e9",
 		"editor.findMatchHighlightBackground" : "#37c2b646",
 		"editor.foreground": "#b9d3e9",
-		"editor.lineHighlightBackground": "#333333a6",
+		"editor.lineHighlightBackground": "#2d2d2d",
 		"editor.selectionBackground" : "#cfd6e034",
 		"editor.selectionHighlightBackground" : "#ffffff23",
 
@@ -132,10 +132,13 @@
 
 		"inputValidation.errorBackground": "#dd518c",
 		"inputValidation.errorBorder": "#dd518c",
+		"inputValidation.errorForeground" : "#161616",
 		"inputValidation.infoBackground": "#5ec4ff",
 		"inputValidation.infoBorder": "#539afc",
+		"inputValidation.infoForeground" : "#161616",
 		"inputValidation.warningBackground": "#d6af78",
 		"inputValidation.warningBorder": "#d98e48",
+		"inputValidation.warningForeground" : "#161616",
 
 		"list.activeSelectionBackground": "#333333",
 		"list.activeSelectionForeground": "#ffffff",
@@ -253,7 +256,7 @@
 		"terminalCursor.foreground": "#5ec4ff",
 
 		"textBlockQuote.background": "#1b1b1b",
-		"textBlockQuote.border": "#1b1b1b",
+		"textBlockQuote.border": "#3572ac",
 
 		"textCodeBlock.background": "#1b1b1b",
 
@@ -270,7 +273,7 @@
 		"titleBar.inactiveBackground": "#1b1b1b",
 		"titleBar.inactiveForeground": "#53515f",
 
-		"walkThrough.embeddedEditorBackground": "#1d252c",
+		"walkThrough.embeddedEditorBackground": "#1b1b1b",
 
 		"welcomePage.buttonBackground": "#161616",
 		"welcomePage.buttonHoverBackground": "#1b1b1b",
