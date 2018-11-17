@@ -4,6 +4,7 @@
 
 - Remove opacity from dropdown inputs in Rainier - Shadow
 - Update colors for quote and code blocks. Can be seen on the interactive playground.
+- Add forground color to input validation
 
 ## (1.2.1) 
 
