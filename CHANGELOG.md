@@ -1,6 +1,6 @@
 # Change Log
 
-## (1.2.3)
+## (1.3.1)
 
 - Make Python docstrings the same color as comments
 - Fix badge color for Rainier - Retro
