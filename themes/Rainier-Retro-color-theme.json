@@ -8,10 +8,10 @@
     "activityBar.foreground": "#b9d3e9",
     "activityBar.inactiveForeground": "#82709e",
 
-    "activityBarBadge.background": "#dd518c",
+    "activityBarBadge.background": "#b9346c",
     "activityBarBadge.foreground": "#f2f2f2",
 
-    "badge.background": "#dd518c",
+    "badge.background": "#b9346c",
     "badge.foreground": "#f2f2f2",
 
     "breadcrumb.activeSelectionForeground": "#509ddb",
