@@ -67,7 +67,6 @@
     "editorGroupHeader.tabsBorder": "#000000",
 
     "editorGutter.addedBackground": "#37c2b6",
-    "editorGutter.background": "#251E2A",
     "editorGutter.deletedBackground": "#dd518c",
     "editorGutter.modifiedBackground": "#509ddb",
 
@@ -196,7 +195,8 @@
     "sideBar.border": "#000000",
     "sideBar.foreground": "#b9d3e9",
 
-    "sideBarSectionHeader.background": "#201825",
+    "sideBarSectionHeader.background": "#18121C",
+    "sideBarSectionHeader.border": "#000000",
     "sideBarSectionHeader.foreground": "#c9c994",
 
     "sideBarTitle.foreground": "#9d79d8",
