@@ -283,7 +283,7 @@
       "name": "Comments",
       "scope": ["comment", "string.quoted.docstring.multi.python"],
       "settings": {
-        "foreground": "#9883b9"
+        "foreground": "#73648b"
       }
     },
     {
