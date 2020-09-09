@@ -414,6 +414,13 @@
       }
     },
     {
+      "name": "Vue Component",
+      "scope": ["support.class.component.html"],
+      "settings": {
+        "foreground": "#008b94"
+      }
+    },
+    {
       "name": "Support Variable Property DOM",
       "scope": "support.variable.property.dom",
       "settings": {
