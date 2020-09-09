@@ -288,7 +288,7 @@
     },
     {
       "name": "Function",
-      "scope": "meta.function-call.generic",
+      "scope": ["meta.function-call.generic","support.type.python"],
       "settings": {
         "foreground": "#509ddb"
       }
