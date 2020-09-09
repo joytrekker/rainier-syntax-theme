@@ -168,9 +168,10 @@
 
     "peekView.border": "#000000",
 
-    "peekViewEditor.background": "#1F1823",
+    "peekViewEditor.background": "#201825",
 
     "peekViewTitle.background": "#18121C",
+    "peekViewResult.background": "#18121C",
 
     "peekViewTitleDescription.foreground": "#9883b9",
 
