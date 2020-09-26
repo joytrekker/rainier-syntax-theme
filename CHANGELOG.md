@@ -1,5 +1,12 @@
 # Change Log
 
+## (1.3.2)
+
+- Fix color for Vue Components
+- Color python support funcions
+- Darken comments and line numbers in Rainier - Retro
+- Fix peek view background in Rainier - Retro
+
 ## (1.3.1)
 
 - Make Python docstrings the same color as comments
