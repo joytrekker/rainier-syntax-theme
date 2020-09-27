@@ -1,5 +1,9 @@
 # Change Log
 
+## (1.3.3)
+
+- Fix background & list colors for Intellisense on Retro/Shadow
+
 ## (1.3.2)
 
 - Fix color for Vue Components
