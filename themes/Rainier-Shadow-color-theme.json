@@ -1,6 +1,18 @@
 {
+  "$schema": "vscode://schemas/color-theme",
   "name": "Rainier - Shadow",
   "type": "dark",
+  "semanticHighlighting": true,
+  "semanticTokenColors": {
+    "method.declaration": "#37c2b6",
+    "function": "#509ddb",
+    "entity.name.function.member": "#509ddb",
+    "entity.other": "#509ddb",
+    "parameter": "#d6af78",
+    "selfParameter": "#c693da",
+    "class": "#37c2b6",
+    "class.builtin": "#509ddb",
+  },
   "colors": {
     "activityBar.background": "#161616",
     "activityBar.border": "#000000",
@@ -77,9 +89,9 @@
     "editorWidget.background": "#161616",
     "editorWidget.border": "#000000",
     "errorForeground": "#dd518c",
-    "extensionButton.prominentBackground": "#008b94",
+    "extensionButton.prominentBackground": "#509DDB",
     "extensionButton.prominentForeground": "#ffffff",
-    "extensionButton.prominentHoverBackground": "#008b94",
+    "extensionButton.prominentHoverBackground": "#509DDB",
     "focusBorder": "#509ddb",
     "foreground": "#B3C8DC",
     "gitDecoration.ignoredResourceForeground": "#9883b9",
@@ -235,16 +247,6 @@
       }
     },
     {
-      "name": "Entity",
-      "scope": [
-        "entity",
-        "entity.other"
-      ],
-      "settings": {
-        "foreground": "#37c2b6"
-      }
-    },
-    {
       "name": "Invalid",
       "scope": "invalid",
       "settings": {
@@ -262,7 +264,7 @@
       "name": "Storage type",
       "scope": "storage.type.class.js",
       "settings": {
-        "foreground": "#008B94"
+        "foreground": "#509DDB"
       }
     },
     {
@@ -299,7 +301,8 @@
         "variable.parameter"
       ],
       "settings": {
-        "foreground": "#d6af78"
+        "foreground": "#d6af78",
+        "fontStyle": "italic"
       }
     },
     {
@@ -320,7 +323,7 @@
       "name": "Storage Type Arrow Function",
       "scope": "storage.type.function.arrow",
       "settings": {
-        "foreground": "#008B94"
+        "foreground": "#509DDB"
       }
     },
     {
@@ -359,7 +362,7 @@
         "support.class.component.js"
       ],
       "settings": {
-        "foreground": "#008b94"
+        "foreground": "#509DDB"
       }
     },
     {
@@ -368,7 +371,7 @@
         "support.class.component.html"
       ],
       "settings": {
-        "foreground": "#008b94"
+        "foreground": "#509DDB"
       }
     },
     {
@@ -539,7 +542,6 @@
         "entity.name.tag.inline.any.html",
         "entity.name.tag.structure.any.html",
         "entity.name.tag.html",
-        "entity.name.tag.js",
         "meta.tag.js",
         "meta.jsx.children.tsx",
         "meta.tag.js",
@@ -547,7 +549,7 @@
         "meta.tag.js"
       ],
       "settings": {
-        "foreground": "#008b94"
+        "foreground": "#b9d3e9"
       }
     },
     {
@@ -716,6 +718,7 @@
       "name": "[MARKDOWN] - PURPLE",
       "scope": [
         "markup.bold.markdown",
+        "markup.italic.markdown",
         "markup.fenced_code.block.markdown",
         "markup.inline.raw.string.markdown",
         "meta.separator.markdown"
@@ -768,10 +771,38 @@
         "entity.name.tag.block.any.html",
         "entity.name.tag.html",
         "entity.name.tag.inline.any.html",
-        "entity.name.tag.structure.any.html"
+        "entity.name.tag.structure.any.html",
+        "entity.name.tag.js"
       ],
       "settings": {
         "foreground": "#509ddb"
+      }
+    },
+    {
+      "name": "Bold markup",
+      "scope": [
+        "markup.bold"
+      ],
+      "settings": {
+        "fontStyle": "bold",
+      }
+    },
+    {
+      "name": "Markup headings",
+      "scope": [
+        "markup.heading"
+      ],
+      "settings": {
+        "fontStyle": "bold",
+      }
+    },
+    {
+      "name": "Markup italic",
+      "scope": [
+        "markup.italic"
+      ],
+      "settings": {
+        "fontStyle": "italic"
       }
     },
     {

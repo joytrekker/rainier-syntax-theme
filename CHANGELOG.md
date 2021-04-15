@@ -1,4 +1,11 @@
-# Change Log
+# Changelog
+
+## (1.3.4)
+
+- Changed the background color for Rainer
+- Enabled semantic highlighting for classes, functions, function declarations and parameters
+- Made function parameters italic
+- Enabled bold and italic for markdown
 
 ## (1.3.3)
 
