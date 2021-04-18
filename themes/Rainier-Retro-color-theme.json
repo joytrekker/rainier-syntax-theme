@@ -559,13 +559,6 @@
       }
     },
     {
-      "name": "[JAVASCRIPT] - Storage Type Function",
-      "scope": "source.js storage.type.function",
-      "settings": {
-        "foreground": "#509ddb"
-      }
-    },
-    {
       "name": "[JAVASCRIPT] - Variable Language",
       "scope": [
         "variable.language",
