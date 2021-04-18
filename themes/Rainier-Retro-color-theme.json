@@ -4,14 +4,15 @@
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
-    "method.declaration": "#37c2b6",
-    "function": "#509ddb",
+    "class.builtin": "#509ddb",
+    "class": "#37c2b6",
     "entity.name.function.member": "#509ddb",
     "entity.other": "#509ddb",
+    "function.declaration": "#37c2b6",
+    "function": "#509ddb",
+    "method.declaration": "#37c2b6",
     "parameter": "#d6af78",
     "selfParameter": "#c693da",
-    "class": "#37c2b6",
-    "class.builtin": "#509ddb",
   },
   "colors": {
     "activityBar.activeBorder": "#509ddb",
@@ -621,13 +622,12 @@
       }
     },
     {
-      "name": "[PHP] - Entity and Storage",
+      "name": "[PHP]",
       "scope": [
-        "source.php entity",
-        "storage.modifier.php"
+        "entity.name.function.php",
       ],
       "settings": {
-        "foreground": "#37c2b6"
+        "foreground": "#509ddb"
       }
     },
     {
