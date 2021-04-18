@@ -14,6 +14,7 @@
     "class.builtin": "#509ddb",
   },
   "colors": {
+    "activityBar.activeBorder": "#509ddb",
     "activityBar.background": "#18121C",
     "activityBar.border": "#000000",
     "activityBar.foreground": "#b9d3e9",
