@@ -1,8 +1,15 @@
 # Changelog
 
+## (1.3.5)
+
+- Rainier: Lighten main background
+- Attempt to fix PHP function color not showing up 
+- Remove blue on javascript 
+- Add a blue active border for the Activity Bar
+
 ## (1.3.4)
 
-- Changed the background color for Rainer
+- Changed the background color for Rainier
 - Enabled semantic highlighting for classes, functions, function declarations and parameters
 - Made function parameters italic
 - Enabled bold and italic for markdown
