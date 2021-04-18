@@ -1,7 +1,21 @@
 {
-  "name": "Rainier Retro",
+  "$schema": "vscode://schemas/color-theme",
+  "name": "Rainier - Retro",
   "type": "dark",
+  "semanticHighlighting": true,
+  "semanticTokenColors": {
+    "class.builtin": "#509ddb",
+    "class": "#37c2b6",
+    "entity.name.function.member": "#509ddb",
+    "entity.other": "#509ddb",
+    "function.declaration": "#37c2b6",
+    "function": "#509ddb",
+    "method.declaration": "#37c2b6",
+    "parameter": "#d6af78",
+    "selfParameter": "#c693da",
+  },
   "colors": {
+    "activityBar.activeBorder": "#509ddb",
     "activityBar.background": "#18121C",
     "activityBar.border": "#000000",
     "activityBar.foreground": "#b9d3e9",
@@ -69,8 +83,8 @@
     "editorSuggestWidget.background": "#1d1720",
     "editorSuggestWidget.border": "#1d1720",
     "editorSuggestWidget.foreground": "#b9d3e9",
-    "editorSuggestWidget.highlightForeground": "#d6af78",
-    "editorSuggestWidget.selectedBackground": "#635679",
+    "editorSuggestWidget.highlightForeground": "#37c2b6",
+    "editorSuggestWidget.selectedBackground": "#3c2e49",
     "editorWarning.border": "#ffffff00",
     "editorWarning.foreground": "#d6af78",
     "editorWhitespace.foreground": "#483858",
@@ -229,16 +243,6 @@
       }
     },
     {
-      "name": "Entity",
-      "scope": [
-        "entity",
-        "entity.other"
-      ],
-      "settings": {
-        "foreground": "#37c2b6"
-      }
-    },
-    {
       "name": "Invalid",
       "scope": "invalid",
       "settings": {
@@ -256,7 +260,7 @@
       "name": "Storage type",
       "scope": "storage.type.class.js",
       "settings": {
-        "foreground": "#008B94"
+        "foreground": "#509DDB"
       }
     },
     {
@@ -293,7 +297,8 @@
         "variable.parameter"
       ],
       "settings": {
-        "foreground": "#d6af78"
+        "foreground": "#d6af78",
+        "fontStyle": "italic"
       }
     },
     {
@@ -314,7 +319,7 @@
       "name": "Storage Type Arrow Function",
       "scope": "storage.type.function.arrow",
       "settings": {
-        "foreground": "#008B94"
+        "foreground": "#509DDB"
       }
     },
     {
@@ -353,7 +358,7 @@
         "support.class.component.js"
       ],
       "settings": {
-        "foreground": "#008b94"
+        "foreground": "#509DDB"
       }
     },
     {
@@ -362,7 +367,7 @@
         "support.class.component.html"
       ],
       "settings": {
-        "foreground": "#008b94"
+        "foreground": "#509DDB"
       }
     },
     {
@@ -533,7 +538,6 @@
         "entity.name.tag.inline.any.html",
         "entity.name.tag.structure.any.html",
         "entity.name.tag.html",
-        "entity.name.tag.js",
         "meta.tag.js",
         "meta.jsx.children.tsx",
         "meta.tag.js",
@@ -541,7 +545,7 @@
         "meta.tag.js"
       ],
       "settings": {
-        "foreground": "#008b94"
+        "foreground": "#b9d3e9"
       }
     },
     {
@@ -550,13 +554,6 @@
         "punctuation.definition.string.begin",
         "punctuation.definition.string.end"
       ],
-      "settings": {
-        "foreground": "#509ddb"
-      }
-    },
-    {
-      "name": "[JAVASCRIPT] - Storage Type Function",
-      "scope": "source.js storage.type.function",
       "settings": {
         "foreground": "#509ddb"
       }
@@ -618,13 +615,12 @@
       }
     },
     {
-      "name": "[PHP] - Entity and Storage",
+      "name": "[PHP]",
       "scope": [
-        "source.php entity",
-        "storage.modifier.php"
+        "entity.name.function.php",
       ],
       "settings": {
-        "foreground": "#37c2b6"
+        "foreground": "#509ddb"
       }
     },
     {
@@ -710,6 +706,7 @@
       "name": "[MARKDOWN] - PURPLE",
       "scope": [
         "markup.bold.markdown",
+        "markup.italic.markdown",
         "markup.fenced_code.block.markdown",
         "markup.inline.raw.string.markdown",
         "meta.separator.markdown"
@@ -762,10 +759,38 @@
         "entity.name.tag.block.any.html",
         "entity.name.tag.html",
         "entity.name.tag.inline.any.html",
-        "entity.name.tag.structure.any.html"
+        "entity.name.tag.structure.any.html",
+        "entity.name.tag.js"
       ],
       "settings": {
         "foreground": "#509ddb"
+      }
+    },
+    {
+      "name": "Bold markup",
+      "scope": [
+        "markup.bold"
+      ],
+      "settings": {
+        "fontStyle": "bold",
+      }
+    },
+    {
+      "name": "Markup headings",
+      "scope": [
+        "markup.heading"
+      ],
+      "settings": {
+        "fontStyle": "bold",
+      }
+    },
+    {
+      "name": "Markup italic",
+      "scope": [
+        "markup.italic"
+      ],
+      "settings": {
+        "fontStyle": "italic"
       }
     },
     {

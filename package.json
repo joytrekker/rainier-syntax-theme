@@ -2,7 +2,7 @@
 	"name": "rainier",
 	"displayName": "Rainier",
 	"description": "A dark and refreshing syntax theme for Visual Studio Code.",
-	"version": "1.3.2",
+	"version": "1.3.4",
 	"publisher": "joytrekker",
 	"engines": {
 		"vscode": "^1.26.0"
