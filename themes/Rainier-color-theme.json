@@ -10,6 +10,7 @@
     "entity.other": "#509ddb",
     "function.declaration": "#37c2b6",
     "function": "#509ddb",
+    "method": "#509ddb",
     "method.declaration": "#37c2b6",
     "parameter": "#d6af78",
     "selfParameter": "#c693da",
@@ -239,10 +240,21 @@
       }
     },
     {
+      "name": "Class",
+      "scope": [
+        "entity.name.type.class",
+        "support.class"
+      ],
+      "settings": {
+        "foreground": "#37c2b6"
+      }
+    },
+    {
       "name": "Function",
       "scope": [
         "meta.function-call.generic",
-        "support.type.python"
+        "support.type.python",
+        "entity.name.function",
       ],
       "settings": {
         "foreground": "#509ddb"
@@ -299,6 +311,7 @@
         "meta.at-rule.function variable",
         "meta.at-rule.mixin variable",
         "meta.function.arguments",
+        "meta.function.parameter variable.other",
         "meta.selectionset.graphql meta.arguments.graphql variable.arguments.graphql",
         "variable.parameter"
       ],
@@ -615,15 +628,6 @@
       "scope": [
         "punctuation.definition.string.end.json",
         "punctuation.definition.string.begin.json"
-      ],
-      "settings": {
-        "foreground": "#509ddb"
-      }
-    },
-    {
-      "name": "[PHP]",
-      "scope": [
-        "entity.name.function.php",
       ],
       "settings": {
         "foreground": "#509ddb"
