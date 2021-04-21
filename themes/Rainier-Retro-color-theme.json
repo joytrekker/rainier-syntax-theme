@@ -312,8 +312,6 @@
       "name": "Function Parameters",
       "scope": [
         "entity.name.variable.parameter",
-        "entity.other.attribute-name.pseudo-class.css",
-        "entity.other.attribute-name.pseudo-element.css",
         "meta.at-rule.function variable",
         "meta.at-rule.mixin variable",
         "meta.function.arguments",
@@ -528,6 +526,25 @@
       "scope": [
         "source.css variable",
         "source.stylus variable"
+      ],
+      "settings": {
+        "foreground": "#c693da"
+      }
+    },
+    {
+      "name": "[CSS] - Attribute Name",
+      "scope": [
+        "entity.other.attribute-name.css"
+      ],
+      "settings": {
+        "foreground": "#d6af78"
+      }
+    },
+    {
+      "name": "[CSS] - Attribute Other",
+      "scope": [
+        "entity.other.attribute-name.pseudo-class.css",
+        "entity.other.attribute-name.pseudo-element.css",
       ],
       "settings": {
         "foreground": "#c693da"
