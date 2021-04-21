@@ -8,12 +8,14 @@
     "class": "#37c2b6",
     "entity.name.function.member": "#509ddb",
     "entity.other": "#509ddb",
+    "interface": "#37c2b6",
     "function.declaration": "#37c2b6",
     "function": "#509ddb",
     "method": "#509ddb",
     "method.declaration": "#37c2b6",
     "parameter": "#d6af78",
     "selfParameter": "#c693da",
+    "type": "#37c2b6"
   },
   "colors": {
     "activityBar.activeBorder": "#509ddb",
@@ -282,6 +284,16 @@
       }
     },
     {
+      "name": "[TS] - Types",
+      "scope": [
+        "entity.name.type",
+        "support.type"
+      ],
+      "settings": {
+        "foreground": "#37c2b6"
+      }
+    },
+    {
       "name": "Meta",
       "scope": "meta",
       "settings": {
@@ -386,7 +398,7 @@
         "support.class.component.html"
       ],
       "settings": {
-        "foreground": "#509DDB"
+        "foreground": "#c693da"
       }
     },
     {
@@ -770,7 +782,10 @@
         "entity.name.tag.html",
         "entity.name.tag.inline.any.html",
         "entity.name.tag.structure.any.html",
-        "entity.name.tag.js"
+        "entity.name.tag.js",
+        "entity.name.tag.template",
+        "entity.name.tag.script",
+        "entity.name.tag.style"
       ],
       "settings": {
         "foreground": "#509ddb"
