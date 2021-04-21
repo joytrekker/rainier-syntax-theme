@@ -597,6 +597,13 @@
       }
     },
     {
+      "name": "[HTML] - Other tags",
+      "scope": "entity.name.tag.other.html",
+      "settings": {
+        "foreground": "#c693da"
+      }
+    },
+    {
       "name": "Quotes",
       "scope": [
         "punctuation.definition.string.begin",
