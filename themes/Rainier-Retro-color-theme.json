@@ -463,7 +463,7 @@
         "entity.other.attribute-name.id.css"
       ],
       "settings": {
-        "foreground": "#5eceeb"
+        "foreground": "#9d79d8"
       }
     },
     {
@@ -530,7 +530,7 @@
         "source.stylus variable"
       ],
       "settings": {
-        "foreground": "#5eceeb"
+        "foreground": "#c693da"
       }
     },
     {
@@ -602,14 +602,16 @@
         "meta.import.js"
       ],
       "settings": {
-        "foreground": "#5eceeb"
+        "foreground": "#c693da",
+        "fontStyle": "italic"
       }
     },
     {
       "name": "[PHP] - $this-> ",
       "scope": "variable.language.this.php",
       "settings": {
-        "foreground": "#5eceeb"
+        "foreground": "#c693da",
+        "fontStyle": "italic"
       }
     },
     {
