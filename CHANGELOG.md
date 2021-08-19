@@ -1,5 +1,13 @@
 # Changelog
 
+## (1.3.6)
+
+- Improvements for Vue and TypeScript
+- Remove light blue from all themes
+- CSS: set attribute colors
+- CSS: fix string color
+- HTML: set color for other tags to pink
+
 ## (1.3.5)
 
 - Rainier: Lighten main background
