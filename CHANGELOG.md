@@ -1,5 +1,8 @@
 # Changelog
 
+## (1.3.7)
+- Fix Rainier's inactive titlebar color
+
 ## (1.3.6)
 
 - Improvements for Vue and TypeScript
